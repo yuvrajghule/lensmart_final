@@ -1,0 +1,54 @@
+.frame1{
+    height: 2000px;
+    margin-top: 20px;
+    background-color:whitesmoke;
+  }
+  .cartGrid{
+    padding-top: 30px;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+
+  table {
+      border-radius: 8px;
+      width: 100%;
+      border-collapse: collapse;
+      margin-bottom: 20px;
+      font-family: 'Courier New', Courier, monospace;
+      font-weight: bold;
+  }
+  tbody{
+      background-color: #dee1ff ;
+  }
+  table th,
+  table td
+  {
+      padding: 5px;
+      width: 50px;
+      text-align: center;
+  }
+  th{
+      font-size: 1.2em;
+      color: white;
+  }
+  thead{
+    border-radius: 10px;
+  } 
+  table th { 
+    font-weight: bold;
+  }
+  table {
+        border:none;
+        border-radius:20px;
+  }
+  
+  table th,
+  .cartTable tbody.outerRow {
+    margin-bottom: 10px; 
+  }
+  
+  .cartTable tbody.outerRow:last-child {
+    border-bottom: none; 
+    margin-bottom: 0; 
+  }
+  

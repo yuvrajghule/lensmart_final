@@ -1,0 +1,104 @@
+.page-container {
+  background-color: grey;
+  padding: 20px;
+}
+.navbar {
+  background-color: rgb(72, 8, 72);
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  margin-bottom: 20px;
+  margin-top: 0;
+}
+
+.menu {
+  display: flex;
+  align-items: center;
+}
+
+.menu li {
+  display: inline;
+  margin-right: 10px;
+}
+
+.menu li.logout {
+  margin-left: auto;
+}
+
+
+
+.logo {
+  flex-grow: 1;
+  text-align: left;
+}
+
+  
+.content {
+  display: flex;
+  justify-content: space-between;
+}
+.item
+{
+  flex-grow:1;
+  text-align: center;
+}
+
+
+  .form-container {
+      background-color: white;
+      border-radius: 20px;
+      padding: 20px;
+      color: white;
+      width: 25%;
+      margin-top: 4%;
+      height: 100%;
+    }
+    
+
+
+.table-container {
+  width: 70%;
+}
+
+
+.form-input {
+  width: 90%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    padding-left: 15px;
+    border-radius: 4px;
+    font-size: 1em;
+}
+.productImage {
+  max-width: 70px;
+  max-height: 70px;
+}
+body {
+  background-color: grey;
+  margin: 0;
+  padding: 0;
+}
+
+
+.cartTable table th,
+.cartTable table td {
+  padding: 10px;
+  text-align: left;
+  color: black;
+}
+
+.cartTable table th {
+  background-color: #e6e6e6;
+}
+
+.cartTable table tbody tr {
+  background-color: white;
+  border-bottom: 1px solid #ccc;
+}
+
+.cartTable table tbody tr:last-child {
+  border-bottom: none;
+}

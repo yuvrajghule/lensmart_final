@@ -1,0 +1,82 @@
+.register-header {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    position: sticky;
+    top: 0;
+    color: white;
+    font-size: 2em;
+    height: 50px;
+    text-align: center;
+    background-color:#684ba3 ;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
+  .register-box {
+    max-width: 30%;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #f5f5f5;
+    border-radius: 9px;
+  }
+  
+  .register-title {
+    color: #684ba3;
+    /* margin-bottom: 20px; */
+    text-align: center;
+  }
+  
+  .register-label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .register-input {
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    padding-left: 15px;
+    border-radius: 4px;
+    font-size: 1.2em;
+  }
+  
+  .register-error {
+    color: red;
+    margin-top: 0px;
+    font-size: 0.8em;
+  }
+  
+    #submitButton {
+    background-color: #684ba3;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    /* text-align: center; */
+    /* margin-left: 40%; */
+    margin-bottom: 20px;
+    border-radius: 5px;
+  }
+  
+
+  ::placeholder { 
+    color: black;
+    font-size: 1em;
+    opacity: 1.2;
+  }
+  #submitButton:hover{
+    background-color: #684ba3;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: 1px solid blue;
+    cursor: pointer;
+    /* text-align: center; */
+    /* margin-left: 40%; */
+    margin-bottom: 20px;
+    
+}

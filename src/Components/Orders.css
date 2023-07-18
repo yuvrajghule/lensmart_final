@@ -1,0 +1,36 @@
+/* .page-container {
+    background-color: grey;
+    padding: 20px;
+  }
+  
+  .content {
+    margin-top: 0px;
+  }
+  
+  .orders-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .orders-table thead {
+    background-color: darkpurple;
+    color: white;
+    margin-bottom:10px;
+  }
+  
+  .orders-table th,
+  .orders-table td {
+    padding: 10px;
+  }
+  
+  .orders-table tbody tr:nth-child(even) {
+    background-color: skyblue;
+  }
+  td{
+    background-color: skyblue;
+  }
+
+  .orders-table tbody tr {
+    border-bottom: 10px solid gray;
+  }
+   */
